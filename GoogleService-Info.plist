@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>99070824124-ipf9ma8pfvcibkptdh4lmi7l0teresc2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.99070824124-ipf9ma8pfvcibkptdh4lmi7l0teresc2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>99070824124-0ja1b9b9e2a0gdfidd2afo3dfs8chu0h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkJp3hMuBaGb3mPk3Rlz5DsWiuj488z7s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>99070824124</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.klomi</string>
+	<key>PROJECT_ID</key>
+	<string>klomi-57b50</string>
+	<key>STORAGE_BUCKET</key>
+	<string>klomi-57b50.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:99070824124:ios:cb00c59b51cf441e41cab9</string>
+</dict>
+</plist>

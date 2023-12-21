@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84428293064",
+    "project_id": "klomi-e9d9c",
+    "storage_bucket": "klomi-e9d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84428293064:android:ea474c1683df69bd13b6fd",
+        "android_client_info": {
+          "package_name": "com.app.klomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84428293064-mqm9ulevilfmj65u0lkhkm1gntr2q6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNT2r2ZFJhctc9CeFW13rtlO5MijdYa6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84428293064-6buuesgi02gj9lpm53vvc60q15c8d70p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

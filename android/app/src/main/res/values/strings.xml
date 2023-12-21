@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">557955679715895</string>
+<string name="app_name">Klomi</string>
+<string name="fb_login_protocol_scheme">fb557955679715895</string>
+<string name="facebook_client_token">2c860761049b11df9c0e4a0c1714b2f8</string>
+</resources>
